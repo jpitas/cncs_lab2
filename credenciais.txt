@@ -1,0 +1,18 @@
+Server	rogue.db.elephantsql.com (rogue-01)
+Region	google-compute-engine::europe-west2
+Created at	2023-04-20 13:50 UTC+00:00
+User & Default database	vlnbogsg
+Password	jsum6tuQ5jJG2WRNX0ugaCtphg9XiskL 
+URL	postgres://vlnbogsg:jsum6tuQ5jJG2WRNX0ugaCtphg9XiskL@rogue.db.elephantsql.com/vlnbogsg 
+Current database size	
+Max database size	20 MB
+Active Plan
+Tiny Turtle
+Tiny Turtle
+
+API access
+Control your instance via our  HTTP API.
+
+API Key
+b780df3b-3636-4a7b-9edd-6867b49d6777 
+
